@@ -1,0 +1,12 @@
+name: TeleportBow
+version: '1.0'
+
+main: me.pablo.teleportBow.TeleportBow
+api-version: '1.21'
+load: POSTWORLD
+
+commands:
+  teleportbow:
+    description: Reload the configuration
+    aliases: teleportbow
+    usage: /teleportbow reload

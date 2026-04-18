@@ -1,0 +1,11 @@
+teleport-bow:
+  name: "&7Teleport &6Bow"
+  lore:
+    - "&7This is the best bow ever!"
+    - "&7It will help you teleporting away."
+  slot: 4
+  unbreakable: true
+arrow:
+  name: "&6Infinite arrow"
+  slot: 10
+
